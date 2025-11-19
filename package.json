@@ -1,0 +1,16 @@
+{
+  "name": "student_budiege",
+  "version": "1.0.0",
+  "description": "This is chrome extension - student Budige",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "Ai",
+    "integration"
+  ],
+  "author": "Ayush",
+  "license": "ISC"
+}
